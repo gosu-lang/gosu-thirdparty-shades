@@ -2,8 +2,8 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-  <artifactId>gw-asm-util</artifactId>
-  <version>5.0.4</version>
+  <artifactId>gw-xercesImpl</artifactId>
+  <version>2.11.0</version>
   <packaging>jar</packaging>
 
   <parent>
@@ -15,9 +15,9 @@
 
   <dependencies>
     <dependency>
-      <groupId>org.ow2.asm</groupId>
-      <artifactId>asm-util</artifactId>
-      <version>5.0.4</version>
+      <groupId>xerces</groupId>
+      <artifactId>xercesImpl</artifactId>
+      <version>2.11.0</version>
     </dependency>
   </dependencies>
 
@@ -36,8 +36,8 @@
             <configuration>
               <relocations>
                 <relocation>
-                  <pattern>org.objectweb.asm</pattern>
-                  <shadedPattern>gw.internal.ext.org.objectweb.asm</shadedPattern>
+                  <pattern>org.apache</pattern>
+                  <shadedPattern>gw.internal.ext.org.apache</shadedPattern>
                 </relocation>
               </relocations>
               <createSourcesJar>true</createSourcesJar>

@@ -13,6 +13,7 @@
     <module>parent</module>
     <module>gw-asm-util</module>
     <module>gw-commons-cli</module>
+    <module>gw-xercesImpl</module>
   </modules>
 
 </project>
