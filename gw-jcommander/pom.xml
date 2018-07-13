@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <artifactId>gw-jcommander</artifactId>
-  <version>1.48</version>
+  <version>1.72</version>
   <packaging>jar</packaging>
 
   <parent>
@@ -17,7 +17,7 @@
     <dependency>
       <groupId>com.beust</groupId>
       <artifactId>jcommander</artifactId>
-      <version>1.48</version>
+      <version>1.72</version>
     </dependency>
   </dependencies>
 
