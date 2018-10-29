@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <artifactId>gw-asm-util</artifactId>
-  <version>5.0.4</version>
+  <version>6.2</version>
   <packaging>jar</packaging>
 
   <parent>
@@ -17,7 +17,7 @@
     <dependency>
       <groupId>org.ow2.asm</groupId>
       <artifactId>asm-util</artifactId>
-      <version>5.0.4</version>
+      <version>6.2</version>
     </dependency>
   </dependencies>
 
