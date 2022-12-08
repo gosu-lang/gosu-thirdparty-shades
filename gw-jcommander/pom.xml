@@ -17,7 +17,7 @@
     <dependency>
       <groupId>com.beust</groupId>
       <artifactId>jcommander</artifactId>
-      <version>1.72</version>
+      <version>${jcommander.version}</version>
     </dependency>
   </dependencies>
 
