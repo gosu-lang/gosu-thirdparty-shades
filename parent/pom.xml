@@ -37,10 +37,10 @@
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <maven.compiler.source>11</maven.compiler.source>
     <maven.compiler.target>11</maven.compiler.target>
-    <asm.version>9.2</asm.version>
-    <common-cli.version>1.4</common-cli.version>
-    <jcommander.version>1.72</jcommander.version>
-    <xercesImpl.Version>2.11.0</xercesImpl.Version>
+    <asm.version>9.7</asm.version>
+    <common-cli.version>1.8.0</common-cli.version>
+    <jcommander.version>1.82</jcommander.version>
+    <xercesImpl.Version>2.12.2</xercesImpl.Version>
   </properties>
 
   <distributionManagement>
