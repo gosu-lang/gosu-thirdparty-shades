@@ -40,7 +40,7 @@
     <asm.version>9.7</asm.version>
     <common-cli.version>1.5.0</common-cli.version>
     <gson.version>2.13.1</gson.version>
-    <jcommander.version>1.78</jcommander.version>
+    <jcommander.version>1.82</jcommander.version>
     <xercesImpl.Version>2.12.2</xercesImpl.Version>
     <dist.mvn.central.snapshotrepo.url>https://central.sonatype.com/repository/maven-snapshots/</dist.mvn.central.snapshotrepo.url>
   </properties>
